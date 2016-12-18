@@ -14,16 +14,42 @@ dms portfolio
 labs
 	various links
 
+
 front page
 z-pattern:
 u of r roster pic
 comp sci undergrad (picture of rush rees)
-all greater rochester player of the year
+all greater rochester player of the year (picture from that)
 
 f-pattern:
 grew up in rochester
 brighton high school graduate
 youth field hockey coach (include work experience)
+
+
+portfolio page:
+java slideshow (top)  includes:
+	-dms picture (stamp, game design, photography?)
+	-screenshot of project 1 front page
+picture of self
+dms link
+lab 9
+lab 11 link
+project 1 link
+
+
+
+nav bar:
+home
+portfoilo
+contact form
+
+
+contact form:
+Name (required)
+Email (required + validated)
+Phone (required)
+Message	(TEXTAREA)
 
 
 
