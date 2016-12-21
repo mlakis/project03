@@ -106,11 +106,12 @@ h2, h3{
 }
 
 footer {
-	margin: 0;
+	margin: 20px;
 	font-size: 13px;
-	padding: 5px;
+	padding: 15px;
 	vertical-align: middle;
 	text-align: center;
+	border-top: 10px dotted #E5ECFF;
 }
 
 
@@ -118,6 +119,10 @@ footer {
 /*	****************************************
 					Nav
 	**************************************** */
+nav{
+padding-top: 20px;
+border-top: 10px dotted #E5ECFF;
+}
 
 .horizontal-nav ul {
 list-style-type: none;
