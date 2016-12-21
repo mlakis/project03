@@ -1,17 +1,11 @@
 <?php $thisPage="Home"; ?>
 <?php include "inc/header.inc"; ?>
 
-	<body>
-		<div class="container">
-			<header>
-				<h1>Miranda Lakis</h1>
-			</header>
-
 			<?php include "inc/nav.inc"; ?>
 
 			<!-- Z-Pattern Content -->
 			<section id="z">
-				<h1>Overview of Accomplishments</h1> .
+				<h1 id="overview">Overview of Accomplishments</h1> .
 
 				<div class="content">
 					<table>
@@ -29,19 +23,19 @@
 
 						<tr>
 							<td>
-								<img src="images/library.jpg" alt="Rush Rhees"/>
-							</td>
-							<td>
 								<h2>Computer Science Undergrad</h2>
 								<p>
 									She is also a computer science undergrad student. Last spring, she made the Dean's List, and this fall she was named to the <a href="http://www.uofrathletics.com/news/2016/11/3/30-named-to-liberty-league-all-academic-team.aspx">Liberty League All-Academic Team</a> along with eleven other teammates.
 								</p>
 							</td>
+							<td>
+								<img src="images/libraryupdated.jpg" alt="Rush Rhees"/>
+							</td>
 						</tr>
 
 						<tr>
 							<td>
-								<a href="http://media.democratandchronicle.com/agr/main/article/59"><img src="images/rochester.jpg" alt="AGR"/></a>
+								<a href="http://media.democratandchronicle.com/agr/main/article/59"><img src="images/rochesterupdated.jpg" alt="AGR"/></a>
 							</td>
 							<td>
 								<h2>All-Greater Rochester Player of the Year</h2>
@@ -62,19 +56,19 @@
 					<table>
 						<tr>
 							<td>
-								<img src="images/city.jpg" alt="City of Rochester"/>
+								<img src="images/cityupdated.jpg" alt="City of Rochester"/>
 							</td>
 							<td>
 								<h2>Rochester Native</h2>
 								<p>
-									Miranda Lakis was born in Rochester, NY. She has lived here to her whole life.
+									Miranda Lakis was born in Rochester, NY. She has lived here to her whole life. Her mother grew up in Fort Lauderdale, FL and her father grew up in Bloomfield, NY.
 								</p>
 							</td>
 						</tr>
 
 						<tr>
 							<td>
-								<img src="images/highschool.jpg" alt="Brighton High School"/>
+								<img src="images/highschoolupdated.jpg" alt="Brighton High School"/>
 							</td>
 							<td>
 								<h2>Brighton High School Graduate</h2>
@@ -86,7 +80,7 @@
 
 						<tr>
 							<td>
-								<img src="images/futures.jpg" alt="USA Futures Logo"/>
+								<img src="images/futuresupdated.jpg" alt="USA Futures Logo"/>
 							</td>
 							<td>
 								<h2>Work Experience</h2>
@@ -101,6 +95,7 @@
 				</div>
 			</section>
 
+			<?php include "inc/footer.inc"; ?>
 
 		</div>
 	</body>

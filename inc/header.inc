@@ -14,10 +14,17 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Raleway" rel="stylesheet">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="sss/sss.css">
 
 </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <h1 id="top">Miranda Lakis</h1>
+      </header>
